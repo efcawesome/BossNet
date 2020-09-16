@@ -92,7 +92,7 @@ namespace BossNet.Items
             item.useAnimation = 20;
             item.useStyle = ItemUseStyleID.SwingThrow;
             item.noUseGraphic = true;
-            item.value = Item.buyPrice(gold: 2);
+            item.value = Item.buyPrice(silver: 4);
             item.makeNPC = NPCID.EaterofWorldsHead;
             item.consumable = true;
             item.maxStack = 999;
