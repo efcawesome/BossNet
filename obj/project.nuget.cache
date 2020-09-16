@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9zsAEx7O8SzOtYOPqDXNu+DdYlxaQIaEqBV9VheX2UGbfTsV6UV7uj8TgtNLKrjc/c9umANbLD3YfBMgAik7Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\efcaw\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BossNet\\BossNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\efcaw\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
