@@ -1,3 +1,4 @@
 displayName = Catchable Bosses
 author = efcawesome
-version = 0.1
+version = 0.2
+homepage = https://discord.gg/ZdNzyEg
